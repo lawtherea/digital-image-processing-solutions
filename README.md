@@ -4,6 +4,7 @@
 ## 📌 Descrição
 
 Este repositório contém soluções de questões do livro de Gonzalez e Woods, incentivadas pelo **Grupo de Estudo em Visão Computacional** do **Laboratório Orion**
+> Líder Técnica: Profa. Dra. Fabiane da Silva Queiroz
 ---
 
 ## 👥 Aluna:
